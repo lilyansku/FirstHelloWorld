@@ -1,0 +1,15 @@
+
+  .theme-message {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .theme-toggle.light {
+    background-color: white;
+    color: black;
+  }
+  
+  .theme-toggle.dark {
+    background-color: black;
+    color: white;
+  }
